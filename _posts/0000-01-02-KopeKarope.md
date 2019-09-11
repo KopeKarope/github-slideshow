@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Big Smoke, it's me, Carl! Chill! Chill!
 Use the left arrow to go back!
